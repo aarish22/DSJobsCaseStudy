@@ -6,7 +6,6 @@ This repository contains a collection of SQL queries designed to analyze compens
 
 ## Queries Overview
 
-
 - `query1.sql`: Identifies countries where managers working fully remotely earn over \$90,000 USD.
 - `query2.sql`: Finds the top 5 countries with the highest count of large companies that hire freshers.
 
